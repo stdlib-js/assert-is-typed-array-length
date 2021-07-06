@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-typed-array-length",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Test if a value is a valid typed array length.",
   "license": "Apache-2.0",
   "author": {
