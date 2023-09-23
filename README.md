@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isTypedArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-typed-array-length@deno/mod.js';
+import isTypedArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-typed-array-length@v0.1.0-deno/mod.js';
 ```
 
 #### isTypedArrayLength( value )
@@ -87,7 +87,7 @@ bool = isTypedArrayLength( null );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isTypedArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-typed-array-length@deno/mod.js';
+import isTypedArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-typed-array-length@v0.1.0-deno/mod.js';
 
 var bool = isTypedArrayLength( 5 );
 // returns true
