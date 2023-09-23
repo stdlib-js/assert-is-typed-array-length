@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isTypedArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-typed-array-length@esm/index.mjs';
+import isTypedArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-typed-array-length@v0.1.0-esm/index.mjs';
 ```
 
 #### isTypedArrayLength( value )
@@ -92,7 +92,7 @@ bool = isTypedArrayLength( null );
 <body>
 <script type="module">
 
-import isTypedArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-typed-array-length@esm/index.mjs';
+import isTypedArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-typed-array-length@v0.1.0-esm/index.mjs';
 
 var bool = isTypedArrayLength( 5 );
 // returns true
