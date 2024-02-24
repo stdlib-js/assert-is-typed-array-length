@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isTypedArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-typed-array-length@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/assert-is-typed-array-length/tags). For example,
+
+```javascript
 import isTypedArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-typed-array-length@v0.2.1-deno/mod.js';
 ```
 
@@ -87,7 +92,7 @@ bool = isTypedArrayLength( null );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isTypedArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-typed-array-length@v0.2.1-deno/mod.js';
+import isTypedArrayLength from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-typed-array-length@deno/mod.js';
 
 var bool = isTypedArrayLength( 5 );
 // returns true
