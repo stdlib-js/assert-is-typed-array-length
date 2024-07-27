@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-typed-array-length",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Test if a value is a valid typed array length.",
   "license": "Apache-2.0",
   "author": {
@@ -37,11 +37,11 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-integer": "^0.2.1",
-    "@stdlib/constants-array-max-typed-array-length": "^0.2.1"
+    "@stdlib/assert-is-integer": "^0.2.2",
+    "@stdlib/constants-array-max-typed-array-length": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/assert-is-boolean": "^0.2.1",
+    "@stdlib/assert-is-boolean": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
